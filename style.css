@@ -72,7 +72,7 @@ body {
 
 .box::after {
   content: '';
-  background-color: #8df6a7;
+  background-color: #a2f68d;
   position: absolute;
   top: 8px;
   right: -15px;
